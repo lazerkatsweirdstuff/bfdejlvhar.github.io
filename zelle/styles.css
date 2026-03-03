@@ -3,17 +3,6 @@
                 --body-bg-image: url('/zelle/argentina_flathorizon.png');
             }
 
-            /* if you have the URL of a font, you can set it below */
-            /* feel free to delete this if it's not your vibe */
-
-            /* this seems like a lot for just one font and I would have to agree
-    but I wanted to include an example of how to include a custom font.
-    If you download a font file you can upload it onto your Neocities
-    and then link it! Many fonts have separate files for each style
-    (bold, italic, etc. T_T) which is why there are so many!
-
-    */
-
             @font-face {
                 font-family: NotoSans;
                 src: url('/zelle/NotoSans-Regular.ttf');

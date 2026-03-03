@@ -1,6 +1,6 @@
 
             :root {
-                --body-bg-image: url('/themes/nekoweb/img/argentina_flathorizon.png');
+                --body-bg-image: url('/zelle/argentina_flathorizon.png');
             }
 
             /* if you have the URL of a font, you can set it below */
@@ -16,24 +16,24 @@
 
             @font-face {
                 font-family: NotoSans;
-                src: url('/themes/nekoweb/fonts/NotoSans-Regular.ttf');
+                src: url('/zelle/NotoSans-Regular.ttf');
             }
 
             @font-face {
                 font-family: NotoSans;
-                src: url('/themes/nekoweb/fonts/NotoSans-Bold.ttf');
+                src: url('/zelle/NotoSans-Bold.ttf');
                 font-weight: bold;
             }
 
             @font-face {
                 font-family: NotoSans;
-                src: url('/themes/nekoweb/fonts/NotoSans-Italic.ttf');
+                src: url('/zelle/NotoSans-Italic.ttf');
                 font-style: italic;
             }
 
             @font-face {
                 font-family: NotoSans;
-                src: url('/themes/nekoweb/fonts/NotoSans-BoldItalic.ttf');
+                src: url('/zelle/NotoSans-BoldItalic.ttf');
                 font-style: italic;
                 font-weight: bold;
             }

@@ -26,6 +26,9 @@ cd WC-DigiClub-Site
 3. Then click commit changes, followed by make a pull request.
 ## Tips
 Check out [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for information on how to properly name your commits.
+
 The Create New File button can be found by clicking Add file.
+
 For creating folders using method 2, use the create new file button, then name the file by first the name of the folder, then a / , and finally the name of the file you want to create inside that folder (Including the extension) (Note that you cannot create empty folders)
+
 If you wish to add a file inside a folder, simply navigate to that folder and then use the Create New File Button
